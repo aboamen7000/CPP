@@ -20,18 +20,19 @@
 <summary>Section 1</summary><br>
 
   - [know basics](Beginner/Lectures/0/)
-  - [printf()](Beginner/Lectures/1/)
-  - [Comments and Escape Sequences](Beginner/Lectures/3/)
-  - [Variables](Beginner/Lectures/4/)
-  - [Data Types](Beginner/Lectures/5/)
-  - [Format Specifier](Beginner/Lectures/6/)
-  - [Constants](Beginner/Lectures/7/)
-  - [Arithmetic Operations](Beginner/Lectures/8/)
-  - [Augmented Assignment Operators](Beginner/Lectures/9/)
-  - [User Input](Beginner/Lectures/10/)
-  - [Math Functions](Beginner/Lectures/11/)
-  - [Circle Circumference Program](Beginner/Lectures/12/)
-  - [Hypotenuse Calculator Program](Beginner/Lectures/13/)
+  - [Basic Input And Output](Beginner/Lectures/1/)
+  - [Variables And Basic Data Types](Beginner/Lectures/2/)
+  - [Const](Beginner/Lectures/3/)
+  - [Namespaces](Beginner/Lectures/4/)
+  - [Typedef And Type Aliases](Beginner/Lectures/5/)
+  - [Arithmetic Operators](Beginner/Lectures/6/)
+  - [Type Conversion](Beginner/Lectures/7/)
+  - [User Input](Beginner/Lectures/8/)
+  - [Useful Math-Related Functions](Beginner/Lectures/9/)
+  - [Calculates the Hypotenuse](Beginner/Lectures/10/)
+  - [If Statments](Beginner/Lectures/11/)
+  - [Switches](Beginner/Lectures/12/)
+  - [Console Calculator Program](Beginner/Lectures/13/)
 </details>
 
 <details>
