@@ -1,0 +1,46 @@
+// C++ Programming Language : [Middle Level Language]
+-------
+
+[Low Level : Machine Main Language] : code considers as (0101000)
+
+- efficient
+- less memory
+- fast
+
+- difficult to understand (01010001) : ibrahim (0100010100010101010)
+- it take time to write the code 
+
+#==========
+[High Level : Python, Java, C#, Javascript] :
+
+- easy to understand 
+- slow
+- uses a lot of memory
+- difficult to work with low level hardware [Factory Machines]
+
+#==========
+Middle Level : (C, C++)
+
+- C : mother of language, also it work between high and low language level, 
+      as well, that why most of factory depend on using C, in there machines works.
+
+- also every language uses by C, like python, implenetation is CPython.
+
+- C++ : is a extension from C, if u know C then you know about a bit of C++.
+
+- C : is hard language cause is not low,high level,
+  it middle soto know it the most important.
+
+---
+
+so what we need, to start:
+
+- ide (text editor) [For example : Visual Code (vscode)] : https://code.visualstudio.com/
+
+- GCC compiler : GCC is an integrated distribution of compilers for several major programming languages. 
+                 These languages currently include C, C++, Objective-C, Objective-C++, Fortran, Ada, D, and Go
+
+
+extensions
+- c/c++ : implement the extensions for the work.
+- code runner : to run the code.
