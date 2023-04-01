@@ -1,6 +1,6 @@
 # Learn 💥
 
-> 1) Learning C Programming Language As Beginner. [Course](https://www.udemy.com/course/c-for-beginners-in-arabic-2023/)
+> 1) Learning C++ Programming Language As Beginner. [Course](https://www.udemy.com/course/c-for-beginners-in-arabic-2023/)
 ---
 
 <div align="center">
